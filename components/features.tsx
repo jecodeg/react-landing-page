@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Layoffs are the most prevalent problems in the tech industry right now</h2>
-            <p className="text-xl text-gray-400">Use our tool to reduce the economic stress on your organisation while also catering to your employee's mental health.</p>
+            <p className="text-xl text-gray-400">Use our tool to reduce the economic stress on your organisation while also catering to your employee's retention</p>
           </div>
 
           {/* Items */}
@@ -31,7 +31,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Credit AI</h4>
+              <h4 className="h4 mb-2">Workforce Analysis</h4>
               <p className="text-lg text-gray-400 text-center">Assign credit scores to employees based on the tasks currently underway.</p>
             </div>
 

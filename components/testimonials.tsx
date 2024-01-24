@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
 import TestimonialImage01 from '@/public/images/test-1.png'
-import TestimonialImage02 from '@/public/images/testimonial-02.jpg'
-import TestimonialImage03 from '@/public/images/testimonial-03.jpg'
+import TestimonialImage02 from '@/public/images/test-2.jpg'
+import TestimonialImage03 from '@/public/images/test-3.png'
 
 export default function Testimonials() {
   return (
@@ -29,7 +29,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— Google has been involved in the layoff of tens of thousands of employees</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">India Times</a>
               </div>
             </div>
 
@@ -41,9 +41,9 @@ export default function Testimonials() {
                   
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Hired more efficiently in the first place. During the industry's pandemic-fueled hiring binge, Apple added fewer employees than other big tech firms.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+               - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">New York Times</a>
               </div>
             </div>
             
@@ -55,9 +55,9 @@ export default function Testimonials() {
                  
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Between November of 2022 and May of 2023, Meta slashed thousands of jobs in four rounds of layoffs</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Washington Post</a>
               </div>
             </div>
 

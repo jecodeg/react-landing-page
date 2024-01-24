@@ -26,17 +26,17 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               
               <li>
-                <Link href="/signin" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="http://192.168.137.56:5000" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Fryde AI
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="/#" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Workflow analysis
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="http://192.168.137.56:5000/forecast" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Forecasted hiring
                 </Link>
               </li>
